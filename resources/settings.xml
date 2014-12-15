@@ -91,6 +91,7 @@
     <setting id="skipmetadata" type="bool" label="30049" default="false" />
     <setting id="skipimages" type="bool"  label="30050" default="false" />
     <setting id="skipflags" type="bool"  label="30051" default="false" />
+    <setting id="cloudservers" type="bool" label="30098" default="false" />
   </category>
   <category label="30010" > <!-- debug -->
   	<setting id="debug" type="bool" label="30014" default="false" />
